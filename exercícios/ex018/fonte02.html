@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fontes externas</title>
+    <style>
+      @font-face {
+        font-family: "Anatasha";
+        src: url("/fontes/anatasha/Anatasha\ Trial.otf") format("opentype");
+        /*
+            Tipos de format():
+            -opentype (.otf)
+            -truetype (.ttf)
+            -embedded-opentype
+            -truetype-aat (Apple Advanced typography)
+            -svg
+        */
+      }
+      @font-face {
+        font-family: "Anatasha";
+        src: urlurl("fontes/Stargo.ttf") format("truetype");
+      }
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: justify;
+      }
+      h1 {
+        font-family: "Stargo";
+        font-size: 3em;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Título</h1>
+    <p>
+      Este site é um teste do uso do deskreen para uso do celulcar como segundo
+      monitor. Irei preencher mais espaço com o lorem. Lorem ipsum dolor sit
+      amet consectetur, adipisicing elit. Obcaecati delectus ipsam eos, esse
+      impedit soluta! Eum, eveniet nulla. Quia fugiat soluta ab quod consequatur
+      necessitatibus magni inventore tenetur nemo quidem! Lorem ipsum dolor sit
+      amet consectetur adipisicing elit. Voluptatem a fuga veritatis dolorum
+      quas quam! Totam veniam dolor reprehenderit voluptatem laboriosam,
+      veritatis assumenda illum culpa eos porro at, explicabo sequi! Lorem ipsum
+      dolor sit amet consectetur, adipisicing elit. Sint doloribus quod
+      incidunt, dolores fugit perspiciatis autem accusantium sit, molestiae
+      dignissimos voluptates minima quasi, suscipit similique nostrum vitae.
+      Cum, voluptatibus architecto.
+    </p>
+  </body>
+</html>
