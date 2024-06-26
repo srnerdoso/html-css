@@ -70,3 +70,4 @@ Lista de exercícios:
 <li><a href="exercícios/ex022/fundo004.html">fundo04</a>
 <li><a href="exercícios/ex022/fundo005.html">fundo05</a>
 <li><a href="exercícios/ex022/fundo006.html">fundo06</a>
+<li><a href="exercícios/ex022/fundo007.html">fundo07</a>
