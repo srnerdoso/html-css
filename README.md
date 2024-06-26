@@ -18,9 +18,10 @@ Lista de exercícios:
 <li><a href="exercícios/ex009/index.html">Exercício 9</a>
 
 <p>Exercício 10:
-
+<ul>
 <li><a href="exercícios/ex010/index.html">index</a>
 <li><a href="exercícios/ex010/pagina002.html">pagina02</a>
+</ul>
 
 <li><a href="exercícios/ex011/index.html">Exercício 11</a>
 <li><a href="exercícios/ex012/index.html">Exercício 12</a>
@@ -29,18 +30,20 @@ Lista de exercícios:
 <li><a href="#">Exercício 15 (Sem exercício)</a>
 
 <p>Exercício 16:
-
+<ul>
 <li><a href="exercícios/ex016/index.html">index</a>
 <li><a href="exercícios/ex016/cor01.html">cor01</a>
 <li><a href="exercícios/ex016/cor02.html">cor02</a>
 <li><a href="exercícios/ex016/cor03.html">cor03</a>
+</ul>
 
 <li><a href="exercícios/ex017/index.html">Exercício 17</a>
 
 <p>Exercício 18:
-
+<ul>
 <li><a href="exercícios/ex018/fonte01.html">fonte01</a>
 <li><a href="exercícios/ex018/fonte02.html">fonte02</a>
+</ul>
 
 <li><a href="exercícios/ex019/seletor_01.html">Exercício 19</a>
 
