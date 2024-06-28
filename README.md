@@ -71,3 +71,6 @@ Lista de exercícios:
 <li><a href="exercícios/ex022/fundo005.html">fundo05</a>
 <li><a href="exercícios/ex022/fundo006.html">fundo06</a>
 <li><a href="exercícios/ex022/fundo007.html">fundo07</a>
+<hr>
+<p>Exercício 23:
+<li><a href="exercícios/ex023/tabela001.html">tabela001</a>
