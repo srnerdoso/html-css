@@ -74,3 +74,5 @@ Lista de exercícios:
 <hr>
 <p>Exercício 23:
 <li><a href="exercícios/ex023/tabela001.html">tabela001</a>
+<li><a href="exercícios/ex023/tabela002.html">tabela002</a>
+<li><a href="exercícios/ex023/tabela003.html">tabela003</a>
